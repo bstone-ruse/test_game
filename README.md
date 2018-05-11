@@ -1,2 +1,2 @@
 # test_game
-game for first weel deployment test
+game for first week deployment test
